@@ -1,0 +1,4 @@
+"0","default_meta <- samp_meta_df %>% rownames_to_column(var=""SampleID"")
+"
+"2","Error: object 'samp_meta_df' not found
+"

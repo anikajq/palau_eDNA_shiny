@@ -1,0 +1,287 @@
+filename,"date, formatted","time, formatted",sample_ID,Date,Time,Location,Zone,Station,Replicate,Duplicate,Cast,GPS_ID,"Lat,Lon",Use,Weather,Notes,,,,
+AAQ176-CAD_0203_20220515_141048_0001.csv,5/15/2022,2:10 PM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220515_142139_0001.csv,5/15/2022,2:21 PM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220516_063046_0001.csv,5/16/2022,6:30 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220516_063752_0001.csv,5/16/2022,6:37 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220516_064545_0001.csv,5/16/2022,6:45 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220516_065002_0001.csv,5/16/2022,6:50 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220516_072429_0001.csv,5/16/2022,7:24 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220516_073136_0001.csv,5/16/2022,7:31 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220516_073742_0001.csv,5/16/2022,7:37 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220516_074342_0001.csv,5/16/2022,7:43 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220516_074919_0001.csv,5/16/2022,7:49 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220516_083235_0001.csv,5/16/2022,8:32 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220516_083926_0001.csv,5/16/2022,8:39 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220516_084557_0001.csv,5/16/2022,8:45 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220516_085156_0001.csv,5/16/2022,8:51 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220516_085705_0001.csv,5/16/2022,8:57 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220517_061006_0001.csv,5/17/2022,6:10 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220517_061517_0001.csv,5/17/2022,6:15 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220517_062252_0001.csv,5/17/2022,6:22 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220517_062729_0001.csv,5/17/2022,6:27 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220517_063314_0001.csv,5/17/2022,6:33 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220517_071748_0001.csv,5/17/2022,7:17 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220517_071942_0001.csv,5/17/2022,7:19 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220517_072502_0001.csv,5/17/2022,7:25 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220517_073039_0001.csv,5/17/2022,7:30 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220517_073715_0001.csv,5/17/2022,7:37 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220517_074249_0001.csv,5/17/2022,7:42 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220517_081739_0001.csv,5/17/2022,8:17 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220517_082322_0001.csv,5/17/2022,8:23 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220517_082947_0001.csv,5/17/2022,8:29 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220517_083455_0001.csv,5/17/2022,8:34 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220517_083900_0001.csv,5/17/2022,8:39 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220518_060214_0001.csv,5/18/2022,6:02 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220518_060856_0001.csv,5/18/2022,6:08 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220518_061426_0001.csv,5/18/2022,6:14 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220518_061927_0001.csv,5/18/2022,6:19 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220518_062545_0001.csv,5/18/2022,6:25 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220518_065727_0001.csv,5/18/2022,6:57 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220518_070204_0001.csv,5/18/2022,7:02 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220518_070715_0001.csv,5/18/2022,7:07 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220518_071232_0001.csv,5/18/2022,7:12 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220518_071841_0001.csv,5/18/2022,7:18 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220518_074624_0001.csv,5/18/2022,7:46 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220518_075213_0001.csv,5/18/2022,7:52 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220518_075730_0001.csv,5/18/2022,7:57 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220518_080250_0001.csv,5/18/2022,8:02 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220518_080527_0001.csv,5/18/2022,8:05 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220518_080848_0001.csv,5/18/2022,8:08 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220519_054830_0001.csv,5/19/2022,5:48 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220519_055527_0001.csv,5/19/2022,5:55 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220519_060242_0001.csv,5/19/2022,6:02 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220519_060653_0001.csv,5/19/2022,6:06 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220519_061252_0001.csv,5/19/2022,6:12 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220519_063312_0001.csv,5/19/2022,6:33 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220519_063759_0001.csv,5/19/2022,6:37 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220519_063852_0001.csv,5/19/2022,6:38 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220519_064232_0001.csv,5/19/2022,6:42 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220519_064821_0001.csv,5/19/2022,6:48 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220519_065509_0001.csv,5/19/2022,6:55 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220519_072424_0001.csv,5/19/2022,7:24 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220519_072953_0001.csv,5/19/2022,7:29 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220519_073519_0001.csv,5/19/2022,7:35 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220519_074110_0001.csv,5/19/2022,7:41 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220519_074703_0001.csv,5/19/2022,7:47 AM,nearshore,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220523_102134_0001.csv,5/23/2022,10:21 AM,"20220523_E_
+AFZ_40_R1_A",,,EAST,AFZ,40,1,A,1,0064,"07.403530, 134.900926",N,"Sunny, partly cloudy",Using new Palau eDNA Project GPS. Water had a brown tint on the way out of the Channel. Land was visible from station. Filters were noticeably brown. Blue copepod on 40_R1_A. ,"Lat,Lon",Use,Weather,Notes
+AAQ176-CAD_0203_20220523_102934_0001.csv,5/23/2022,10:29 AM,"20220523_E_
+AFZ_40_R2_A",,,EAST,AFZ,40,2,A,2,0065,"07.403530, 134.900926",Y,"Sunny, partly cloudy",Using new Palau eDNA Project GPS & KC Niskin bottle. Water had a brown tint on the way out of the Channel. Land was visible from station. Filters were noticeably brown. Blue copepod on 40_R1_A. ,"07.403530, 134.900926",N,"Sunny, partly cloudy",Using new Palau eDNA Project GPS. Water had a brown tint on the way out of the Channel. Land was visible from station. Filters were noticeably brown. Blue copepod on 40_R1_A. 
+AAQ176-CAD_0203_20220523_103404_0001.csv,5/23/2022,10:34 AM,"20220523_E_
+AFZ_40_R3_A",,,EAST,AFZ,40,3,A,3,0066,"07.403530, 134.900926",Y,"Sunny, partly cloudy",Using new Palau eDNA Project GPS & KC Niskin bottle. Water had a brown tint on the way out of the Channel. Land was visible from station. Filters were noticeably brown. Blue copepod on 40_R1_A. ,"07.403530, 134.900926",Y,"Sunny, partly cloudy",Using new Palau eDNA Project GPS & KC Niskin bottle. Water had a brown tint on the way out of the Channel. Land was visible from station. Filters were noticeably brown. Blue copepod on 40_R1_A. 
+AAQ176-CAD_0203_20220523_103900_0001.csv,5/23/2022,10:39 AM,"20220523_E_
+AFZ_40_R4_A",,,EAST,AFZ,40,4,A,4,0067,"07.403530, 134.900926",Y,"Sunny, partly cloudy",Using new Palau eDNA Project GPS & KC Niskin bottle. Water had a brown tint on the way out of the Channel. Land was visible from station. Filters were noticeably brown. Blue copepod on 40_R1_A. ,"07.403530, 134.900926",Y,"Sunny, partly cloudy",Using new Palau eDNA Project GPS & KC Niskin bottle. Water had a brown tint on the way out of the Channel. Land was visible from station. Filters were noticeably brown. Blue copepod on 40_R1_A. 
+AAQ176-CAD_0203_20220523_104408_0001.csv,5/23/2022,10:44 AM,"20220523_E_
+AFZ_40_R5_A",,,EAST,AFZ,40,5,A,5,0068,"07.403530, 134.900926",Y,"Sunny, partly cloudy",Using new Palau eDNA Project GPS & KC Niskin bottle. Water had a brown tint on the way out of the Channel. Land was visible from station. Filters were noticeably brown. Blue copepod on 40_R1_A. ,"07.403530, 134.900926",Y,"Sunny, partly cloudy",Using new Palau eDNA Project GPS & KC Niskin bottle. Water had a brown tint on the way out of the Channel. Land was visible from station. Filters were noticeably brown. Blue copepod on 40_R1_A. 
+AAQ176-CAD_0203_20220523_133221_0001.csv,5/23/2022,1:32 PM,"20220523_E_
+NMS_S41_R1_A",23-May-22,1:31pm,EAST,NMS,41,1,A,6,0069,"07.401416, 134.901866",Y,"Sunny,partly cloudy, hot",Spotted 2 or more whales (sperm or pilot) before getting to the station. They surfaced for some time. ,,,,
+AAQ176-CAD_0203_20220523_133930_0001.csv,5/23/2022,1:39 PM,"20220523_E_
+NMS_S41_R2_A",23-May-22,1:31pm,EAST,NMS,41,2,A,7,0070,"07.401416, 134.901866",Y,"Sunny,partly cloudy, hot",Spotted 2 or more whales (sperm or pilot) before getting to the station. They surfaced for some time. ,,,,
+AAQ176-CAD_0203_20220523_134436_0001.csv,5/23/2022,1:44 PM,"20220523_E_
+NMS_S41_R3_A",23-May-22,1:31pm,EAST,NMS,41,3,A,8,0071,"07.401416, 134.901866",Y,"Sunny,partly cloudy, hot",Spotted 2 or more whales (sperm or pilot) before getting to the station. They surfaced for some time. ,,,,
+AAQ176-CAD_0203_20220523_135041_0001.csv,5/23/2022,1:50 PM,"20220523_E_
+NMS_S41_R4_A",23-May-22,1:31pm,EAST,NMS,41,4,A,9,0072,"07.401416, 134.901866",Y,"Sunny,partly cloudy, hot",Spotted 2 or more whales (sperm or pilot) before getting to the station. They surfaced for some time. ,,,,
+AAQ176-CAD_0203_20220523_135633_0001.csv,5/23/2022,1:56 PM,"20220523_E_
+NMS_S41_R5_A",23-May-22,1:31pm,EAST,NMS,41,5,A,10,0073,"07.401416, 134.901866",Y,"Sunny,partly cloudy, hot",Spotted 2 or more whales (sperm or pilot) before getting to the station. They surfaced for some time. ,,,,
+AAQ176-CAD_0203_20220523_163255_0001.csv,5/23/2022,4:32 PM,"20220523_E_
+NMS_S44_R1_A",23-May-22,4:32pm,EAST,NMS,44,1,A,11,0074,"07.901516, 135.900829",Y,"Sunny, calm, bit of rain before reaching the station",,,,,
+AAQ176-CAD_0203_20220523_163809_0001.csv,5/23/2022,4:38 PM,"20220523_E_
+NMS_S44_R2_A",23-May-22,4:32pm,EAST,NMS,44,2,A,12,0075,"07.901516, 135.900829",Y,"Sunny, calm, bit of rain before reaching the station",,,,,
+AAQ176-CAD_0203_20220523_164315_0001.csv,5/23/2022,4:43 PM,"20220523_E_
+NMS_S44_R3_A",23-May-22,4:32pm,EAST,NMS,44,3,A,13,0076,"07.901516, 135.900829",Y,"Sunny, calm, bit of rain before reaching the station",,,,,
+AAQ176-CAD_0203_20220523_164800_0001.csv,5/23/2022,4:48 PM,"20220523_E_
+NMS_S44_R4_A",23-May-22,4:32pm,EAST,NMS,44,4,A,14,0077,"07.901516, 135.900829",Y,"Sunny, calm, bit of rain before reaching the station",,,,,
+AAQ176-CAD_0203_20220523_165327_0001.csv,5/23/2022,4:53 PM,"20220523_E_
+NMS_S44_R5_A",23-May-22,4:32pm,EAST,NMS,44,5,A,15,0078,"07.901516, 135.900829",Y,"Sunny, calm, bit of rain before reaching the station",,,,,
+AAQ176-CAD_0203_20220524_055116_0001.csv,5/24/2022,5:51 AM,"20220524_N_
+NMS_S12_R1_A",24-May-22,5:50am,NORTH,NMS,12,1,A,16,0079,"09.499696, 135.299830",Y,"Sunrise, calm, bit overcast, slighlty raining before deployment. Wind picked up after Cast 17, 10kts of wind at last cast",,,,,
+AAQ176-CAD_0203_20220524_055656_0001.csv,5/24/2022,5:56 AM,"20220524_N_
+NMS_S12_R2_A",24-May-22,5:50am,NORTH,NMS,12,2,A,17,0080,"09.499696, 135.299830",Y,"Sunrise, calm, bit overcast, slighlty raining before deployment. Wind picked up after Cast 17, 10kts of wind at last cast",,,,,
+AAQ176-CAD_0203_20220524_060249_0001.csv,5/24/2022,6:02 AM,"20220524_N_
+NMS_S12_R3_A",24-May-22,5:50am,NORTH,NMS,12,3,A,18,0081,"09.499696, 135.299830",Y,"Sunrise, calm, bit overcast, slighlty raining before deployment. Wind picked up after Cast 17, 10kts of wind at last cast",,,,,
+AAQ176-CAD_0203_20220524_060754_0001.csv,5/24/2022,6:07 AM,"20220524_N_
+NMS_S12_R4_A",24-May-22,5:50am,NORTH,NMS,12,4,A,19,0082,"09.499696, 135.299830",Y,"Sunrise, calm, bit overcast, slighlty raining before deployment. Wind picked up after Cast 17, 10kts of wind at last cast",,,,,
+AAQ176-CAD_0203_20220524_061249_0001.csv,5/24/2022,6:12 AM,"20220524_N_
+NMS_S12_R5_A",24-May-22,5:50am,NORTH,NMS,12,5,A,20,0083,"09.499696, 135.299830",Y,"Sunrise, calm, bit overcast, slighlty raining before deployment. Wind picked up after Cast 17, 10kts of wind at last cast",,,,,
+AAQ176-CAD_0203_20220524_081602_0001.csv,5/24/2022,8:16 AM,"20220524_N_
+NMS_S13_R1_A",24-May-22,8:16am,NORTH,NMS,13,1,A,21,0084,"09.500156, 134.799391",Y,"Partly cloudy, hot, ~10kts, swell, some white caps",,,,,
+AAQ176-CAD_0203_20220524_082021_0001.csv,5/24/2022,8:20 AM,"20220524_N_
+NMS_S13_R2_A",24-May-22,8:16am,NORTH,NMS,13,2,A,22,0085,"09.500156, 134.799391",Y,"Partly cloudy, hot, ~10kts, swell, some white caps",,,,,
+AAQ176-CAD_0203_20220524_082521_0001.csv,5/24/2022,8:25 AM,"20220524_N_
+NMS_S13_R3_A",24-May-22,8:16am,NORTH,NMS,13,3,A,23,0086,"09.500156, 134.799391",Y,"Partly cloudy, hot, ~10kts, swell, some white caps",,,,,
+AAQ176-CAD_0203_20220524_083122_0001.csv,5/24/2022,8:31 AM,"20220524_N_
+NMS_S13_R4_A",24-May-22,8:16am,NORTH,NMS,13,4,A,24,0087,"09.500156, 134.799391",Y,"Partly cloudy, hot, ~10kts, swell, some white caps",,,,,
+AAQ176-CAD_0203_20220524_083714_0001.csv,5/24/2022,8:37 AM,"20220524_N_
+NMS_S13_R5_A",24-May-22,8:16am,NORTH,NMS,13,5,A,25,0088,"09.500156, 134.799391",Y,"Partly cloudy, hot, ~10kts, swell, some white caps",,,,,
+AAQ176-CAD_0203_20220524_104115_0001.csv,5/24/2022,10:41 AM,"20220524_N_
+NMS_S14_R1_A",24-May-22,10:40am,NORTH,NMS,14,1,A,26,0089,"09.49899, 134.298922",Y,"Sunny, very hot, low wind, marine haze",Boobie has been around since yesterday evening - flying around while sampling,,,,
+AAQ176-CAD_0203_20220524_104628_0001.csv,5/24/2022,10:46 AM,"20220524_N_
+NMS_S14_R2_A",24-May-22,10:40am,NORTH,NMS,14,2,A,27,0090,"09.49899, 134.298922",Y,"Sunny, very hot, low wind, marine haze",Boobie has been around since yesterday evening - flying around while sampling,,,,
+AAQ176-CAD_0203_20220524_105139_0001.csv,5/24/2022,10:51 AM,"20220524_N_
+NMS_S14_R3_A",24-May-22,10:40am,NORTH,NMS,14,3,A,28,0091,"09.49899, 134.298922",Y,"Sunny, very hot, low wind, marine haze",Boobie has been around since yesterday evening - flying around while sampling,,,,
+AAQ176-CAD_0203_20220524_105658_0001.csv,5/24/2022,10:56 AM,"20220524_N_
+NMS_S14_R4_A",24-May-22,10:40am,NORTH,NMS,14,4,A,29,0092,"09.49899, 134.298922",Y,"Sunny, very hot, low wind, marine haze",Boobie has been around since yesterday evening - flying around while sampling,,,,
+AAQ176-CAD_0203_20220524_110300_0001.csv,5/24/2022,11:03 AM,"20220524_N_
+NMS_S14_R5_A",24-May-22,10:40am,NORTH,NMS,14,5,A,30,0093,"09.49899, 134.298922",Y,"Sunny, very hot, low wind, marine haze",Boobie has been around since yesterday evening - flying around while sampling,,,,
+AAQ176-CAD_0203_20220524_141710_0001.csv,5/24/2022,2:17 PM,"20220524_N_
+NMS_S11_R1_A",24-May-22,2:16pm,NORTH,NMS,11,1,A,31,0094,"08.999978, 134.799570",Y,"Choppy, windy, 1m waves, white caps, 20 kts winds, rained before getting to stn, by Cast 34 it was sunny and calmer/less windy",,,,,
+AAQ176-CAD_0203_20220524_142235_0001.csv,5/24/2022,2:22 PM,"20220524_N_
+NMS_S11_R2_A",24-May-22,2:16pm,NORTH,NMS,11,2,A,32,0095,"08.999978, 134.799570",Y,"Choppy, windy, 1m waves, white caps, 20 kts winds, rained before getting to stn, by Cast 34 it was sunny and calmer/less windy",,,,,
+AAQ176-CAD_0203_20220524_143147_0001.csv,5/24/2022,2:31 PM,"20220524_N_
+NMS_S11_R3_A",24-May-22,2:16pm,NORTH,NMS,11,3,A,33,0096,"08.999978, 134.799570",Y,"Choppy, windy, 1m waves, white caps, 20 kts winds, rained before getting to stn, by Cast 34 it was sunny and calmer/less windy",,,,,
+AAQ176-CAD_0203_20220524_143704_0001.csv,5/24/2022,2:37 PM,"20220524_N_
+NMS_S11_R4_A",24-May-22,2:16pm,NORTH,NMS,11,4,A,34,0098,"08.999978, 134.799570",Y,"Choppy, windy, 1m waves, white caps, 20 kts winds, rained before getting to stn, by Cast 34 it was sunny and calmer/less windy",,,,,
+AAQ176-CAD_0203_20220524_143747_0001.csv,5/24/2022,2:37 PM,"20220524_N_
+NMS_S11_R5_A",24-May-22,2:16pm,NORTH,NMS,11,5,A,35,0099,"08.999978, 134.799570",Y,"Choppy, windy, 1m waves, white caps, 20 kts winds, rained before getting to stn, by Cast 34 it was sunny and calmer/less windy",,,,,
+AAQ176-CAD_0203_20220524_144404_0001.csv,5/24/2022,2:44 PM,"20220524_N_
+NMS_S11_R1_B",24-May-22,2:16pm,NORTH,NMS,11,1,B,31,0094,"08.999978, 134.799570",N,"Choppy, windy, 1m waves, white caps, 20 kts winds, rained before getting to stn, by Cast 34 it was sunny and calmer/less windy",,,,,
+AAQ176-CAD_0203_20220524_165904_0001.csv,5/24/2022,4:59 PM,"20220524_N_
+AFZ_S10_R1_A",24-May-22,4:58pm,NORTH,AFZ,10,1,A,36,0100,"08.499453, 134.799860",Y,"Overcast, rough seas, 2m waves, 20kts of wind, rained during 1st cast",,,,,
+AAQ176-CAD_0203_20220524_170554_0001.csv,5/24/2022,5:05 PM,"20220524_N_
+AFZ_S10_R2_A",24-May-22,4:58pm,NORTH,AFZ,10,2,A,37,0101,"08.499453, 134.799860",Y,"Overcast, rough seas, 2m waves, 20kts of wind, rained during 1st cast",,,,,
+AAQ176-CAD_0203_20220524_171325_0001.csv,5/24/2022,5:13 PM,"20220524_N_
+AFZ_S10_R3_A",24-May-22,4:58pm,NORTH,AFZ,10,3,A,38,0102,"08.499453, 134.799860",Y,"Overcast, rough seas, 2m waves, 20kts of wind, rained during 1st cast",,,,,
+AAQ176-CAD_0203_20220524_171956_0001.csv,5/24/2022,5:19 PM,"20220524_N_
+AFZ_S10_R4_A",24-May-22,4:58pm,NORTH,AFZ,10,4,A,39,0103,"08.499453, 134.799860",Y,"Overcast, rough seas, 2m waves, 20kts of wind, rained during 1st cast",,,,,
+AAQ176-CAD_0203_20220524_172540_0001.csv,5/24/2022,5:25 PM,"20220524_N_
+AFZ_S10_R5_A",24-May-22,4:58pm,NORTH,AFZ,10,5,A,40,0104,"08.499453, 134.799860",Y,"Overcast, rough seas, 2m waves, 20kts of wind, rained during 1st cast",,,,,
+AAQ176-CAD_0203_20220525_054152_0001.csv,5/25/2022,5:41 AM,"20220525_W_
+AFZ_S20_R1_A",25-May-22,5:40am,WEST,AFZ,20,1,A,41,0105,"07.700423, 133.899953",Y,"Sunrise, overcast, light rain, calm","S20_R2_B was put in the tube labeled ""R2_C"", S20_R2_C was put in the tube labeled ""R2_B""",,,,
+AAQ176-CAD_0203_20220525_054151_0001.csv,5/25/2022,5:41 AM,"20220525_W_
+AFZ_S20_R2_A",25-May-22,5:40am,WEST,AFZ,20,2,A,42,0106,"07.700423, 133.899953",Y,"Sunrise, overcast, light rain, calm","S20_R2_B was put in the tube labeled ""R2_C"", S20_R2_C was put in the tube labeled ""R2_B""",,,,
+AAQ176-CAD_0203_20220525_055315_0001.csv,5/25/2022,5:53 AM,"20220525_W_
+AFZ_S20_R3_A",25-May-22,5:40am,WEST,AFZ,20,3,A,43,0107,"07.700423, 133.899953",Y,"Sunrise, overcast, light rain, calm","S20_R2_B was put in the tube labeled ""R2_C"", S20_R2_C was put in the tube labeled ""R2_B""",,,,
+AAQ176-CAD_0203_20220525_055838_0001.csv,5/25/2022,5:58 AM,"20220525_W_
+AFZ_S20_R4_A",25-May-22,5:40am,WEST,AFZ,20,4,A,44,0108,"07.700423, 133.899953",Y,"Sunrise, overcast, light rain, calm","S20_R2_B was put in the tube labeled ""R2_C"", S20_R2_C was put in the tube labeled ""R2_B""",,,,
+AAQ176-CAD_0203_20220525_060347_0001.csv,5/25/2022,6:03 AM,"20220525_W_
+AFZ_S20_R5_A",25-May-22,5:40am,WEST,AFZ,20,5,A,45,0109,"07.700423, 133.899953",Y,"Sunrise, overcast, light rain, calm","S20_R2_B was put in the tube labeled ""R2_C"", S20_R2_C was put in the tube labeled ""R2_B""",,,,
+AAQ176-CAD_0203_20220525_060923_0001.csv,5/25/2022,6:09 AM,"20220525_W_
+AFZ_S20_R1_B",25-May-22,5:40am,WEST,AFZ,20,1,B,41,0105,"07.700423, 133.899953",N,"Sunrise, overcast, light rain, calm","S20_R2_B was put in the tube labeled ""R2_C"", S20_R2_C was put in the tube labeled ""R2_B""",,,,
+AAQ176-CAD_0203_20220525_083837_0001.csv,5/25/2022,8:38 AM,"20220525_W_
+DFZ_S24_R1_A",25-May-22,8:37am,WEST,DFZ,24,1,A,46,0110,"07.701338, 133.398587",Y,"Overcast, calm, light wind",,,,,
+AAQ176-CAD_0203_20220525_084459_0001.csv,5/25/2022,8:44 AM,"20220525_W_
+DFZ_S24_R2_A",25-May-22,8:37am,WEST,DFZ,24,2,A,47,0111,"07.701338, 133.398587",Y,"Overcast, calm, light wind",,,,,
+AAQ176-CAD_0203_20220525_085050_0001.csv,5/25/2022,8:50 AM,"20220525_W_
+DFZ_S24_R3_A",25-May-22,8:37am,WEST,DFZ,24,3,A,48,0112,"07.701338, 133.398587",Y,"Overcast, calm, light wind",,,,,
+AAQ176-CAD_0203_20220525_085811_0001.csv,5/25/2022,8:58 AM,"20220525_W_
+DFZ_S24_R4_A",25-May-22,8:37am,WEST,DFZ,24,4,A,49,0113,"07.701338, 133.398587",Y,"Overcast, calm, light wind",,,,,
+AAQ176-CAD_0203_20220525_090325_0001.csv,5/25/2022,9:03 AM,"20220525_W_
+DFZ_S24_R5_A",25-May-22,8:37am,WEST,DFZ,24,5,A,50,0114,"07.701338, 133.398587",Y,"Overcast, calm, light wind",,,,,
+AAQ176-CAD_0203_20220525_114614_0001.csv,5/25/2022,11:46 AM,"20220525_W_
+DFZ_S21_R1_A",25-May-22,11:45am,WEST,DFZ,21,1,A,51,0115,"08.199528, 132.900021",Y,"Sunny, partly cloudy, waves gettingbigger ~1m",Lots of floating Sargassum-like algae & plastic,,,,
+AAQ176-CAD_0203_20220525_115103_0001.csv,5/25/2022,11:51 AM,"20220525_W_
+DFZ_S21_R2_A",25-May-22,11:45am,WEST,DFZ,21,2,A,52,0116,"08.199528, 132.900021",Y,"Sunny, partly cloudy, waves gettingbigger ~1m",Lots of floating Sargassum-like algae & plastic,,,,
+AAQ176-CAD_0203_20220525_115648_0001.csv,5/25/2022,11:56 AM,"20220525_W_
+DFZ_S21_R3_A",25-May-22,11:45am,WEST,DFZ,21,3,A,53,0117,"08.199528, 132.900021",Y,"Sunny, partly cloudy, waves gettingbigger ~1m",Lots of floating Sargassum-like algae & plastic,,,,
+AAQ176-CAD_0203_20220525_120212_0001.csv,5/25/2022,12:02 PM,"20220525_W_
+DFZ_S21_R4_A",25-May-22,11:45am,WEST,DFZ,21,4,A,54,0118,"08.199528, 132.900021",Y,"Sunny, partly cloudy, waves gettingbigger ~1m",Lots of floating Sargassum-like algae & plastic,,,,
+AAQ176-CAD_0203_20220525_120741_0001a.csv,5/25/2022,12:07 PM,"20220525_W_
+DFZ_S21_R5_A",25-May-22,11:45am,WEST,DFZ,21,5,A,55,0119,"08.199528, 132.900021",Y,"Sunny, partly cloudy, waves gettingbigger ~1m",Lots of floating Sargassum-like algae & plastic,,,,
+AAQ176-CAD_0203_20220525_120741_0001.csv,5/25/2022,12:07 PM,"20220525_W_
+DFZ_S21_R1_B",25-May-22,11:45am,WEST,DFZ,21,1,B,51,0115,"08.199528, 132.900021",Y,"Sunny, partly cloudy, waves gettingbigger ~1m",Lots of floating Sargassum-like algae & plastic,,,,
+AAQ176-CAD_0203_20220525_120953_0001.csv,5/25/2022,12:09 PM,"20220525_W_
+DFZ_S21_R2_B",25-May-22,11:45am,WEST,DFZ,21,2,B,52,0116,"08.199528, 132.900021",Y,"Sunny, partly cloudy, waves gettingbigger ~1m",Lots of floating Sargassum-like algae & plastic,,,,
+AAQ176-CAD_0203_20220525_142741_0001.csv,5/25/2022,2:27 PM,"20220525_W_
+DFZ_S22_R1_A",25-May-22,2:26pm,WEST,DFZ,22,1,A,56,0120,"07.700146, 132.899243",Y,"Hazy, high clouds, sunny",Plastic waste in water before getting to station,,,,
+AAQ176-CAD_0203_20220525_143218_0001.csv,5/25/2022,2:32 PM,"20220525_W_
+DFZ_S22_R2_A",25-May-22,2:26pm,WEST,DFZ,22,2,A,57,0121,"07.700146, 132.899243",N,"Hazy, high clouds, sunny",Plastic waste in water before getting to station,,,,
+AAQ176-CAD_0203_20220525_144125_0001.csv,5/25/2022,2:41 PM,"20220525_W_
+DFZ_S22_R3_A",25-May-22,2:26pm,WEST,DFZ,22,3,A,58,0122,"07.700146, 132.899243",Y,"Hazy, high clouds, sunny",Plastic waste in water before getting to station,,,,
+AAQ176-CAD_0203_20220525_144635_0001.csv,5/25/2022,2:46 PM,"20220525_W_
+DFZ_S22_R4_A",25-May-22,2:26pm,WEST,DFZ,22,4,A,59,0123,"07.700146, 132.899243",Y,"Hazy, high clouds, sunny",Plastic waste in water before getting to station,,,,
+AAQ176-CAD_0203_20220525_145624_0001.csv,5/25/2022,2:56 PM,"20220525_W_
+DFZ_S22_R5_A",25-May-22,2:26pm,WEST,DFZ,22,5,A,60,0124,"07.700146, 132.899243",Y,"Hazy, high clouds, sunny",Plastic waste in water before getting to station,,,,
+AAQ176-CAD_0203_20220525_171841_0001.csv,5/25/2022,5:18 PM,"20220525_W_
+DFZ_S23_R1_A",25-May-22,5:17pm,WEST,DFZ,23,1,A,61,0125,"07.202139, 132.903207",Y,"Cloudy, windy, ~30kts, waves 2m","Rain as approached the stn, very rough conditions during filtering",,,,
+AAQ176-CAD_0203_20220525_172445_0001.csv,5/25/2022,5:24 PM,"20220525_W_
+DFZ_S23_R2_A",25-May-22,5:17pm,WEST,DFZ,23,2,A,62,0126,"07.202139, 132.903207",Y,"Cloudy, windy, ~30kts, waves 2m","Rain as approached the stn, very rough conditions during filtering",,,,
+AAQ176-CAD_0203_20220525_173047_0001.csv,5/25/2022,5:30 PM,"20220525_W_
+DFZ_S23_R3_A",25-May-22,5:17pm,WEST,DFZ,23,3,A,63,0127,"07.202139, 132.903207",Y,"Cloudy, windy, ~30kts, waves 2m","Rain as approached the stn, very rough conditions during filtering",,,,
+AAQ176-CAD_0203_20220525_173633_0001.csv,5/25/2022,5:36 PM,"20220525_W_
+DFZ_S23_R4_A",25-May-22,5:17pm,WEST,DFZ,23,4,A,64,0128,"07.202139, 132.903207",Y,"Cloudy, windy, ~30kts, waves 2m","Rain as approached the stn, very rough conditions during filtering",,,,
+AAQ176-CAD_0203_20220525_174255_0001.csv,5/25/2022,5:42 PM,"20220525_W_
+DFZ_S23_R5_A",25-May-22,5:17pm,WEST,DFZ,23,5,A,65,0129,"07.202139, 132.903207",Y,"Cloudy, windy, ~30kts, waves 2m","Rain as approached the stn, very rough conditions during filtering",,,,
+AAQ176-CAD_0203_20220526_053443_0001.csv,5/26/2022,5:34 AM,"20220526_S_
+NMS_S33_R1_A",26-May-22,5:33am,SOUTH,NMS,33,1,A,66,0130,"05.701037, 14.799876",Y,"Sunrise, overcast, and cloudy. Rough conditions in the night, some swell still present",,,,,
+AAQ176-CAD_0203_20220526_054230_0001.csv,5/26/2022,5:42 AM,"20220526_S_
+NMS_S33_R2_A",26-May-22,5:33am,SOUTH,NMS,33,2,A,67,0131,"05.701037, 14.799876",Y,"Sunrise, overcast, and cloudy. Rough conditions in the night, some swell still present",,,,,
+AAQ176-CAD_0203_20220526_054227_0001.csv,5/26/2022,5:42 AM,"20220526_S_
+NMS_S33_R3_A",26-May-22,5:33am,SOUTH,NMS,33,3,A,68,0132,"05.701037, 14.799876",Y,"Sunrise, overcast, and cloudy. Rough conditions in the night, some swell still present",,,,,
+AAQ176-CAD_0203_20220526_054729_0001.csv,5/26/2022,5:47 AM,"20220526_S_
+NMS_S33_R4_A",26-May-22,5:33am,SOUTH,NMS,33,4,A,69,0133,"05.701037, 14.799876",Y,"Sunrise, overcast, and cloudy. Rough conditions in the night, some swell still present",,,,,
+AAQ176-CAD_0203_20220526_055428_0001.csv,5/26/2022,5:54 AM,"20220526_S_
+NMS_S33_R5_A",26-May-22,5:33am,SOUTH,NMS,33,5,A,70,0134,"05.701037, 14.799876",Y,"Sunrise, overcast, and cloudy. Rough conditions in the night, some swell still present",,,,,
+AAQ176-CAD_0203_20220526_055921_0001.csv,5/26/2022,5:59 AM,"20220526_S_
+NMS_S33_R1_B",26-May-22,5:33am,SOUTH,NMS,33,1,B,66,0130,"05.701037, 14.799876",N,"Sunrise, overcast, and cloudy. Rough conditions in the night, some swell still present",,,,,
+AAQ176-CAD_0203_20220526_082112_0001.csv,5/26/2022,8:21 AM,"20220526_S_
+NMS_S32_R1_A",26-May-22,8:20am,SOUTH,NMS,32,1,A,71,0135,"05.701520, 134.303423",Y,"Mostly cloudy, sun shining through, calm, slight wind","3 boobies flying, water looks more green than blue, big pieces of wood floating, feeding frenzy between Cast 73 &74 with frigates and white birds off the starbird side (right) ~300m",,,,
+AAQ176-CAD_0203_20220526_082656_0001.csv,5/26/2022,8:26 AM,"20220526_S_
+NMS_S32_R2_A",26-May-22,8:20am,SOUTH,NMS,32,2,A,72,0136,"05.701520, 134.303423",Y,"Mostly cloudy, sun shining through, calm, slight wind","3 boobies flying, water looks more green than blue, big pieces of wood floating, feeding frenzy between Cast 73 &74 with frigates and white birds off the starbird side (right) ~300m",,,,
+AAQ176-CAD_0203_20220526_083246_0001.csv,5/26/2022,8:32 AM,"20220526_S_
+NMS_S32_R3_A",26-May-22,8:20am,SOUTH,NMS,32,3,A,73,0137,"05.701520, 134.303423",Y,"Mostly cloudy, sun shining through, calm, slight wind","3 boobies flying, water looks more green than blue, big pieces of wood floating, feeding frenzy between Cast 73 &74 with frigates and white birds off the starbird side (right) ~300m",,,,
+AAQ176-CAD_0203_20220526_083840_0001.csv,5/26/2022,8:38 AM,"20220526_S_
+NMS_S32_R4_A",26-May-22,8:20am,SOUTH,NMS,32,4,A,74,0138,"05.701520, 134.303423",Y,"Mostly cloudy, sun shining through, calm, slight wind","3 boobies flying, water looks more green than blue, big pieces of wood floating, feeding frenzy between Cast 73 &74 with frigates and white birds off the starbird side (right) ~300m",,,,
+AAQ176-CAD_0203_20220526_084337_0001.csv,5/26/2022,8:43 AM,"20220526_S_
+NMS_S32_R5_A",26-May-22,8:20am,SOUTH,NMS,32,5,A,75,0139,"05.701520, 134.303423",Y,"Mostly cloudy, sun shining through, calm, slight wind","3 boobies flying, water looks more green than blue, big pieces of wood floating, feeding frenzy between Cast 73 &74 with frigates and white birds off the starbird side (right) ~300m",,,,
+AAQ176-CAD_0203_20220526_112648_0001.csv,5/26/2022,11:26 AM,"20220526_S_
+NMS_S31_R1_A",26-May-22,11:25am,SOUTH,NMS,31,1,A,76,0140,"05.700617, 133.800990",Y,"Sunny, hot, windy (10-15kts), some clouds",Few boobies flying near boat,,,,
+AAQ176-CAD_0203_20220526_113139_0001.csv,5/26/2022,11:31 AM,"20220526_S_
+NMS_S31_R2_A",26-May-22,11:25am,SOUTH,NMS,31,2,A,77,0141,"05.700617, 133.800990",Y,"Sunny, hot, windy (10-15kts), some clouds",Few boobies flying near boat,,,,
+AAQ176-CAD_0203_20220526_113658_0001.csv,5/26/2022,11:36 AM,"20220526_S_
+NMS_S31_R3_A",26-May-22,11:25am,SOUTH,NMS,31,3,A,78,0142,"05.700617, 133.800990",Y,"Sunny, hot, windy (10-15kts), some clouds",Few boobies flying near boat,,,,
+AAQ176-CAD_0203_20220526_113705_0001.csv,5/26/2022,11:37 AM,"20220526_S_
+NMS_S31_R4_A",26-May-22,11:25am,SOUTH,NMS,31,4,A,79,0143,"05.700617, 133.800990",Y,"Sunny, hot, windy (10-15kts), some clouds",Few boobies flying near boat,,,,
+AAQ176-CAD_0203_20220526_114322_0001.csv,5/26/2022,11:43 AM,"20220526_S_
+NMS_S31_R5_A",26-May-22,11:25am,SOUTH,NMS,31,5,A,80,0144,"05.700617, 133.800990",Y,"Sunny, hot, windy (10-15kts), some clouds",Few boobies flying near boat,,,,
+AAQ176-CAD_0203_20220526_114843_0001.csv,5/26/2022,11:48 AM,"20220526_S_
+NMS_S31_R1_B",26-May-22,11:25am,SOUTH,NMS,31,1,B,76,0140,"05.700617, 133.800990",N,"Sunny, hot, windy (10-15kts), some clouds",Few boobies flying near boat,,,,
+AAQ176-CAD_0203_20220526_144304_0001.csv,5/26/2022,2:43 PM,"20220526_S_
+NMS_S34_R1_A",26-May-22,2:42pm,SOUTH,NMS,34,1,A,81,0145,"06.202000, 134.301334",Y,"Cloudy w/ some sun, long swell, wind","KC Niskin nipple broke off on Cast 85, so we had to pour from the top to collect in Whirl-Pak. Couldn't fix, so traded it out for the back-up GO Niskin. Possible whale in the distance",,,,
+AAQ176-CAD_0203_20220526_145037_0001.csv,5/26/2022,2:50 PM,"20220526_S_
+NMS_S34_R2_A",26-May-22,2:42pm,SOUTH,NMS,34,2,A,82,0146,"06.20055, 134.29948",Y,"Cloudy w/ some sun, long swell, wind","KC Niskin nipple broke off on Cast 85, so we had to pour from the top to collect in Whirl-Pak. Couldn't fix, so traded it out for the back-up GO Niskin. Possible whale in the distance",,,,
+AAQ176-CAD_0203_20220526_145626_0001.csv,5/26/2022,2:56 PM,"20220526_S_
+NMS_S34_R3_A",26-May-22,2:42pm,SOUTH,NMS,34,3,A,83,0147,"06.20012, 134.30014",Y,"Cloudy w/ some sun, long swell, wind","KC Niskin nipple broke off on Cast 85, so we had to pour from the top to collect in Whirl-Pak. Couldn't fix, so traded it out for the back-up GO Niskin. Possible whale in the distance",,,,
+AAQ176-CAD_0203_20220526_150210_0001.csv,5/26/2022,3:02 PM,"20220526_S_
+NMS_S34_R4_A",26-May-22,2:42pm,SOUTH,NMS,34,4,A,84,0148,"06.20041, 134.30031",Y,"Cloudy w/ some sun, long swell, wind","KC Niskin nipple broke off on Cast 85, so we had to pour from the top to collect in Whirl-Pak. Couldn't fix, so traded it out for the back-up GO Niskin. Possible whale in the distance",,,,
+AAQ176-CAD_0203_20220526_150724_0001.csv,5/26/2022,3:07 PM,"20220526_S_
+NMS_S34_R5_A",26-May-22,2:42pm,SOUTH,NMS,34,5,A,85,0149,"06.20016, 134.30002",Y,"Cloudy w/ some sun, long swell, wind","KC Niskin nipple broke off on Cast 85, so we had to pour from the top to collect in Whirl-Pak. Couldn't fix, so traded it out for the back-up GO Niskin. Possible whale in the distance",,,,
+AAQ176-CAD_0203_20220526_175056_0001.csv,5/26/2022,5:50 PM,,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220526_175500_0001.csv,5/26/2022,5:55 PM,,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220526_175850_0001.csv,5/26/2022,5:58 PM,,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220526_180003_0001.csv,5/26/2022,6:00 PM,,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220526_180600_0001.csv,5/26/2022,6:06 PM,,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220526_181240_0001.csv,5/26/2022,6:12 PM,,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220526_181453_0001.csv,5/26/2022,6:14 PM,,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220526_181449_0001.csv,5/26/2022,6:14 PM,,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220526_181457_0001.csv,5/26/2022,6:14 PM,,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220526_181455_0001.csv,5/26/2022,6:14 PM,,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220526_181434_0001.csv,5/26/2022,6:14 PM,,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220526_181456_0001.csv,5/26/2022,6:14 PM,,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220526_181448_0001.csv,5/26/2022,6:14 PM,,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220526_181454_0001.csv,5/26/2022,6:14 PM,,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220526_181459_0001.csv,5/26/2022,6:14 PM,,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220526_181458_0001.csv,5/26/2022,6:14 PM,,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220526_181505_0001.csv,5/26/2022,6:15 PM,,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220526_181506_0001.csv,5/26/2022,6:15 PM,,,,,,,,,,,,,,,,,,
+AAQ176-CAD_0203_20220527_052607_0001.csv,5/27/2022,5:26 AM,"20220527_E_
+NMS_S43_R1_A",27-May-22,5:25am,WEST,NMS,43,1,A,91,0156,"07.400309, 135.900102",Y,"Sunrise, ~8kts of wind, swell present",,,,,
+AAQ176-CAD_0203_20220527_052908_0001.csv,5/27/2022,5:29 AM,"20220527_E_
+NMS_S43_R2_A",27-May-22,5:25am,WEST,NMS,43,2,A,92,0157,"07.400309, 135.900102",Y,"Sunrise, ~8kts of wind, swell present",,,,,
+AAQ176-CAD_0203_20220527_053411_0001.csv,5/27/2022,5:34 AM,"20220527_E_
+NMS_S43_R3_A",27-May-22,5:25am,WEST,NMS,43,3,A,93,0158,"07.400309, 135.900102",Y,"Sunrise, ~8kts of wind, swell present",,,,,
+AAQ176-CAD_0203_20220527_054013_0001.csv,5/27/2022,5:40 AM,"20220527_E_
+NMS_S43_R4_A",27-May-22,5:25am,WEST,NMS,43,4,A,94,0159,"07.400309, 135.900102",Y,"Sunrise, ~8kts of wind, swell present",,,,,
+AAQ176-CAD_0203_20220527_054418_0001.csv,5/27/2022,5:44 AM,"20220527_E_
+NMS_S43_R5_A",27-May-22,5:25am,WEST,NMS,43,5,A,95,0160,"07.400309, 135.900102",Y,"Sunrise, ~8kts of wind, swell present",,,,,
+AAQ176-CAD_0203_20220527_055407_0001.csv,5/27/2022,5:54 AM,"20220527_E_
+NMS_S43_R1_B",27-May-22,5:25am,WEST,NMS,43,1,B,91,0156,"07.400309, 135.900102",Y,"Sunrise, ~8kts of wind, swell present",,,,,
+AAQ176-CAD_0203_20220527_082408_0001.csv,5/27/2022,8:24 AM,"20220527_E_
+NMS_S42_R1_A",27-May-22,8:39am,WEST,NMS,42,1,A,96,0161,"06.899750, 135.899994",Y,"Sunny, clouds, 1m swell, light wind (5-8kts)","DI (Milli-Q) Bottle #Q5 had some water outside the Whirl-Pak, because it was on its side. Poured out water in bottle and carefully poured only water from Whirl-Pak into filter cup",,,,
+AAQ176-CAD_0203_20220527_082633_0001.csv,5/27/2022,8:26 AM,"20220527_E_
+NMS_S42_R2_A",27-May-22,8:39am,WEST,NMS,42,2,A,97,0162,"06.899750, 135.899994",Y,"Sunny, clouds, 1m swell, light wind (5-8kts)","DI (Milli-Q) Bottle #Q5 had some water outside the Whirl-Pak, because it was on its side. Poured out water in bottle and carefully poured only water from Whirl-Pak into filter cup",,,,
+AAQ176-CAD_0203_20220527_083051_0001.csv,5/27/2022,8:30 AM,"20220527_E_
+NMS_S42_R3_A",27-May-22,8:39am,WEST,NMS,42,3,A,98,0163,"06.899750, 135.899994",Y,"Sunny, clouds, 1m swell, light wind (5-8kts)","DI (Milli-Q) Bottle #Q5 had some water outside the Whirl-Pak, because it was on its side. Poured out water in bottle and carefully poured only water from Whirl-Pak into filter cup",,,,
+AAQ176-CAD_0203_20220527_083543_0001.csv,5/27/2022,8:35 AM,"20220527_E_
+NMS_S42_R4_A",27-May-22,8:39am,WEST,NMS,42,4,A,99,0164,"06.899750, 135.899994",Y,"Sunny, clouds, 1m swell, light wind (5-8kts)","DI (Milli-Q) Bottle #Q5 had some water outside the Whirl-Pak, because it was on its side. Poured out water in bottle and carefully poured only water from Whirl-Pak into filter cup",,,,
+AAQ176-CAD_0203_20220527_084027_0001.csv,5/27/2022,8:40 AM,"20220527_E_
+NMS_S42_R5_A",27-May-22,8:39am,WEST,NMS,42,5,A,100,0165,"06.899750, 135.899994",Y,"Sunny, clouds, 1m swell, light wind (5-8kts)","DI (Milli-Q) Bottle #Q5 had some water outside the Whirl-Pak, because it was on its side. Poured out water in bottle and carefully poured only water from Whirl-Pak into filter cup",,,,

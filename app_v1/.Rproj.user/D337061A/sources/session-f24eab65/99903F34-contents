@@ -1,0 +1,182 @@
+library(tidyverse)
+# library(readr)
+
+setwd("/Users/Anika/Desktop/Stanford/senior year/directed_research/working_files")
+
+# df <- read.csv("AAQ176-CAD_0203_20220527_083051_0001.csv", header = TRUE, skip = 65, fileEncoding = "latin1")
+# the above line of code reads in a csv file and cuts out the first 65 rows as the header. 
+
+file_metadata <- read.csv("AQ Copy of Labels_Coordinates_SampleInventory_May2022.xlsx - Filename metadata.csv", header=TRUE)
+View(file_metadata)
+
+# Now, to combine all 5 csv files for the same station: 
+
+# Load the metadata file
+# df_meta <- read.csv("/mnt/data/AQ Copy of Labels_Coordinates_SampleInventory_May2022.xlsx - Filename metadata.csv", header = TRUE)
+
+# Group by station number to combine csvs from the same station
+# get rid of anything (for now!) where station is not reported: (can comment this line out later if desired)
+file_metadata <- file_metadata %>% 
+  filter(Station != "")
+
+grouped_files <- file_metadata %>%
+  group_by(Station) %>%
+  summarise(filenames = list(filename))
+
+View(grouped_files)
+
+# Iterate over each station group
+
+input_dir <- "/Users/Anika/Desktop/Stanford/senior year/directed_research/working_files/AAQ_raw"
+output_dir <- "/Users/Anika/Desktop/Stanford/senior year/directed_research/working_files/combined_csvs"
+
+# for (i in seq_len(nrow(grouped_files))) {
+#   station <- grouped_files$Station[i]
+#   file_list <- grouped_files$filenames[[i]]
+# 
+#   # Read and combine all CSV files for this station
+#   # combined_df <- do.call(rbind, lapply(paste0("AAQ_raw/", file_list), read.csv, header = TRUE, row.names=NULL))
+#   # combined_df <- do.call(rbind, lapply(file_list, read.csv, header = TRUE, row.names=NULL))
+# 
+#   combined_df <- do.call(rbind, lapply(file_list, function(f) {
+#     file_path <- file.path(input_dir, f)  # Construct full path to input files
+#     read.csv(file_path, header = TRUE, row.names = NULL, skip = 65, fileEncoding = "latin1")
+#     # read.csv("AAQ176-CAD_0203_20220527_083051_0001.csv", header = TRUE, skip = 65, fileEncoding = "latin1")
+#   }))
+# 
+#   #save new combined csv:
+#   output_filename <- file.path(output_dir, paste0("combined_station_", station, ".csv"))
+# 
+#   write.csv(combined_df, output_filename, row.names = FALSE)
+# 
+#   print(paste("Saved:", output_filename))
+# }
+
+# ^^^ This is the old version that was giving a version with rbind, where not all stations were being saved due to differences in column names. 
+# still need to confirm if all the csvs produced in the uncommented code below contain all the desired information!!!
+
+for (i in seq_len(nrow(grouped_files))) {
+  station <- grouped_files$Station[i]
+  file_list <- grouped_files$filenames[[i]]
+  
+  data_list <- lapply(file_list, function(f) {
+    file_path <- file.path(input_dir, f)  # Construct full path
+    read.csv(file_path, header = TRUE, row.names = NULL, skip = 65, fileEncoding = "latin1")
+  })
+  
+  # Standardize column names across all dataframes
+  common_cols <- Reduce(intersect, lapply(data_list, colnames))  # Find common columns
+  data_list <- lapply(data_list, function(df) df[common_cols])  # Keep only common columns
+  
+  # Combine all standardized dataframes
+  combined_df <- do.call(rbind, data_list)
+  combined_df$Station <- station #adds the station number as a column
+  
+  #save new combined csv:
+  output_filename <- file.path(output_dir, paste0("combined_station_", station, ".csv"))
+  
+  write.csv(combined_df, output_filename, row.names = FALSE)
+  
+  print(paste("Saved:", output_filename))
+}
+
+
+##### NEXT SECTION: Using combined csvs to find trends among them (aka averaging everything) 
+
+# Load back all csvs into R: 
+folder_path <- "/Users/Anika/Desktop/Stanford/senior year/directed_research/working_files/combined_csvs"
+csv_files <- list.files(folder_path, pattern = "\\.csv$", full.names = TRUE)
+# data_list <- lapply(csv_files, read_csv)
+# View(data_list)
+
+for (file in csv_files) {
+  # Get the name of the file without the extension
+  file_name <- tools::file_path_sans_ext(basename(file))
+  # print(file_name)
+  
+  # Read the CSV file into a tibble
+  data <- read_csv(file)
+  
+  # Assign the tibble to a variable with the filename as the variable name
+  assign(file_name, data)
+}
+
+#so now, every station is saved in R under the name "combined_station_[StationNumber]" e.g. combined_station_12
+# and they can be adjusted as such: 
+# so, to filter out only the first two meters of depth (and not if it == 0) :
+
+file_name <- combined_station_12 #test/example for now
+  
+filtered_data <- file_name %>% 
+  # filter(`Depth [m]` != 0.000) %>% 
+  filter(`Depth..m.` >= 1.000) %>% 
+  filter(`Depth..m.` <= 2.000)
+
+# View(filtered_data)
+# now we average the filtered data and create a table with the station number and the average salinity
+#####for now the variable of interest is salinity but I am working on changing that so it can be easily edited/customized!
+
+master_df <- data.frame(matrix(ncol = 2, nrow = 0)) #for 32 stations
+colnames(master_df) <- c("Station", "Average Salinity (1-2 m depth)")
+
+stat_12_mean <- mean(filtered_data$Sal.)
+
+# stat_12 <- data.frame(
+#   `Station` = 12,
+#   `Average Salinity (1-2 m depth)` = stat_12_mean
+# )
+
+stat_12 <- c("12", stat_12_mean)
+
+# Add the new row to the dataframe
+master_df <- rbind(master_df, stat_12)
+
+#pseudo-code (aka what my plan is moving forward):
+# 1. for each station csv file, extract station number and average salinity measurement
+# 2. add row to master_df with the station number and the mean measurement
+# 3. note places in code that can be adjusted/edited
+
+
+#re-doing what i did with station 12 with all stations:
+
+#first, initializing the data frame: 
+salinity_df <- data.frame(matrix(ncol = 2, nrow = 0)) 
+
+for (file in csv_files) {
+  # Get the name of the file without the extension
+  file_name <- tools::file_path_sans_ext(basename(file))
+  # print(file_name)
+  
+  # Read the CSV file into a tibble
+  data <- read_csv(file)
+  
+  # Assign the tibble to a variable with the filename as the variable name. This saves it into R to have this name
+  assign(file_name, data) #not totally necessary
+  
+  #filter so that only data between 1 and 2 m is considered (inclusive)--THIS CAN BE ADJUSTED AS NEEDED
+  filtered_data <- data %>% 
+    filter(`Depth..m.` >= 1.000) %>% 
+    filter(`Depth..m.` <= 2.000)
+  
+  mean_sal <- mean(filtered_data$Sal.) #currently, averaging salinity values, but this can be adjusted!!! based on different interests of study
+  
+  station <- data$Station[1]
+  
+  row_input <- c(station, mean_sal)
+  
+  salinity_df <- rbind(salinity_df, row_input)
+}
+# renaming the columns:
+colnames(salinity_df) <- c("station_number", "avg_salinity_1_2m") #can edit column title based on variables and depth of interest
+
+View(salinity_df)
+
+
+#now, combine the master_df with the site_locations data: 
+View(site_locations)
+locations_salinity <- full_join(salinity_df, site_locations, by="station_number")
+View(locations_salinity)
+
+#save the locations_salinity as a csv: 
+setwd("/Users/Anika/Desktop/Stanford/senior year/directed_research/working_files")
+write.csv(locations_salinity, "locations_salinity.csv", row.names = FALSE)

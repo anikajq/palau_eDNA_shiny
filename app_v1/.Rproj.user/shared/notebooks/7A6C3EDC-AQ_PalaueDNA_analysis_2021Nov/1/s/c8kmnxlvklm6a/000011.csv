@@ -1,0 +1,5 @@
+"0","#create a sample metadata 
+samp_meta <- read_csv(file.path(dir_data_raw, ""SampleMetaData.csv"")) # Need to move this file into raw folder
+"
+"2","Error: './data/raw/SampleMetaData.csv' does not exist in current working directory ('/Users/Anika/Desktop/Stanford/Summers/MUIR 2024/quon_muir_2024/final outputs').
+"

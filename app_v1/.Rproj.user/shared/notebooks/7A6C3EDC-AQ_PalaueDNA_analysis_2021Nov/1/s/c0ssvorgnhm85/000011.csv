@@ -1,0 +1,14 @@
+"0","# only run the script if the output .csv file does not yet exist
+# load data if it already exsists
+if (!file.exists(file.path(dir_data_proc, paste0(""esv_clean_data_rv_"", analysis_date, "".csv"")))) {
+  source(file.path(dir_scripts, ""clean_data.R"")) # run cleaning script in scripts folder
+  cat(""ran cleaning script"")
+} else {esv_clean_data_df <- read_csv(file.path(dir_data_proc, 
+                                        paste0(""esv_clean_data_rv_"", analysis_date, "".csv"")))
+        cat(""loaded existing clean data"")
+}
+"
+"2","Warning: cannot open file './scripts/clean_data.R': No such file or directory"
+"2","Error in file(filename, ""r"", encoding = encoding) : 
+  cannot open the connection
+"

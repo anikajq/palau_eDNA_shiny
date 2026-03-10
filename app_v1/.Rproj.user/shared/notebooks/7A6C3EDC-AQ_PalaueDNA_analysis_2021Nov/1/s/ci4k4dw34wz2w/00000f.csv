@@ -1,0 +1,5 @@
+"0","# load the csv file
+comm_species <- read.csv(file.path(dir_data_raw, ""PICRC_commercially_important_fish.csv""))
+"
+"2","Error: object 'dir_data_raw' not found
+"

@@ -1,0 +1,30 @@
+{
+    "id": "AEC35DDA",
+    "path": "~/Desktop/Stanford/senior year/directed_research/data organization/Visual Applications/r_scripts/AQ_PalaueDNA_analysis_2021Nov.qmd",
+    "project_path": null,
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1747079856002.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "chunk_output_type": "inline",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "45841:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1733518095,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1733518095,
+    "read_only": false,
+    "read_only_alternatives": []
+}
